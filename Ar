@@ -1,0 +1,38 @@
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Code/Art</title>
+    <link rel="stylesheet" href="styles.css">
+  </head>
+  <body>
+    <header>
+      <h1>Welcome to Code/Art</h1>
+      <nav>
+        <ul>
+          <li><a href="#programs">Programs</a></li>
+          <li><a href="#about">About Us</a></li>
+          <li><a href="#contact">Contact</a></li>
+        </ul>
+      </nav>
+    </header>
+    <main>
+      <section id="programs">
+        <h2>Our Programs</h2>
+        <p>Code/Art offers a variety of programs for K-12 students and educators, including workshops, school year support, and coding clubs. Our programs focus on art, creativity, and social good, and are designed to put girls on track for future tech careers.</p>
+      </section>
+      <section id="about">
+        <h2>About Us</h2>
+        <p>Code/Art is a non-profit organization on a mission to increase the number of girls in computer science by delighting and inspiring them with the creative possibilities of computer programming. We strive to put young women, particularly young women from historically underrepresented groups, on track for future tech careers by providing welcoming early coding programs that focus on art, creativity and social good.</p>
+      </section>
+      <section id="contact">
+        <h2>Contact</h2>
+        <p>For more information about Code/Art, please visit our <a href="contact.html">contact page</a>.</p>
+      </section>
+    </main>
+    <footer>
+      <p>Copyright © Code/Art 2023</p>
+    </footer>
+    <script src="scripts.js"></script>
+  </body>
+</html>
